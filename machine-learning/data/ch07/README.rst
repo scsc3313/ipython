@@ -40,3 +40,4 @@ MovieLens data analysis
 In this chapter, we only consider a very simple approach, which is implemented
 in the ``usermodel.py`` script.
 
+/Users/kangjaeho/ipython/machine-learning/data/README.md
